@@ -1,0 +1,10 @@
+body {
+  background-color: #fff1e6;
+}
+#search-box {
+  background-color: #ffffff;
+  border: 2px solid red;
+  color: black;
+  border-radius: 5px;
+  outline: none;
+}
